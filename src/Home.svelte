@@ -29,6 +29,7 @@
     z-index: 100;
     padding: 1em;
     padding-left: 2em;
+		padding-right: 0;
     flex-direction: column;
   }
 
@@ -50,6 +51,7 @@
     overflow-y: scroll;
     height: 100vh;
     padding-left: 1em;
+		padding-right: 0;
   }
   .inner {
     direction: ltr;
@@ -74,10 +76,9 @@
   }
 
   .intro {
-    width: 375px;
+    width: 350px;
     height: 0px;
     overflow: hidden;
-    max-width: 90%;
     line-height: 1.4em;
     opacity: 0;
     transition: opacity 0.5s;
@@ -263,7 +264,7 @@
           im Rahmen des Projektes
           <a
             href="https://www.museum4punkt0.de"
-            target="_blank">Museum4punkt0</a>
+            target="_blank">museum4punkt0</a>
           mit Unterstützung des Museums Europäischer Kulturen und der Alten
           Nationalgalerie. Die Zielstellung des Projektes war es, das Potenzial
           assoziativer Visualisierung sammlungsübergreifender Daten zu
@@ -285,7 +286,7 @@
           <li>Mark-Jan Bludau: Konzeptentwicklung und Screendesign</li>
           <li>Marian Dörk: Wissenschaftliche Leitung</li>
         </ul>
-        <p>Museum4punkt0 Teilprojekt M1 SMB</p>
+        <p>museum4punkt0 Teilprojekt M1 SMB</p>
         <ul>
           <li>Stephanie Thom: Museologin, Steuerung Museumsdokumentation</li>
           <li>
