@@ -48,6 +48,8 @@ museum4punkt0 Teilprojekt M1 SMB
 - Timo Schuhmacher: Wissenschaftlicher Mitarbeiter – Bildung & Vermittlung
 - Katharina Fendius: Teilprojektsteuerung / Wissenschaftliche Projektreferentin der Stellv. Generaldirektorin der Staatlichen Museen zu Berlin
 
+Code and documentation in this repository have been reviewed by TICE Software UG (haftungsbeschränkt) (https://tice.software/de/).
+
 ### License
 MIT License
 
